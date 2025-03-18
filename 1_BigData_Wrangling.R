@@ -1,7 +1,7 @@
 ###ANALYSING BIG DATA: DATA PREPROCESSING USING DATA.TABLE PACKAGE
 #*
 ##1. Further resources
-#Process time of a job
+#Processing time of a job
 proc.time()
 system.time()
 #checking what a code does
