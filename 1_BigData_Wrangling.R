@@ -4,7 +4,7 @@
 #Process time of a job
 proc.time()
 system.time()
-#To check what a code does
+#checking what a code does
 ?proc.time
 ?system.time
 #Response: proc.time determines how much real and CPU time (in seconds) the currently running R process has already taken.
